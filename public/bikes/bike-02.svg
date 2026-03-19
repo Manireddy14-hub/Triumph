@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="3840" y2="2160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B0E"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#C8102E"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2550 1180) rotate(-12) scale(1500 760)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#g)"/>
+  <rect width="3840" height="2160" fill="url(#r)"/>
+  <g opacity="0.9">
+    <path d="M760 1360c120-160 320-260 560-260h460c180 0 330 90 470 210l260 220h260c60 0 110 50 110 110 0 60-50 110-110 110H700c-90 0-150-90-95-170l155-220Z" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="10"/>
+    <circle cx="1260" cy="1600" r="230" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="24"/>
+    <circle cx="1260" cy="1600" r="125" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="12"/>
+    <circle cx="2700" cy="1600" r="230" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="24"/>
+    <circle cx="2700" cy="1600" r="125" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="12"/>
+    <path d="M1540 1080h520l290 240h-650l-160-240Z" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="10"/>
+    <path d="M1850 1250h280" stroke="#C8102E" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <text x="220" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="90" font-weight="900" fill="#FFFFFF" opacity="0.85">MODEL IMAGE PLACEHOLDER (4K)</text>
+  <text x="220" y="430" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF" opacity="0.65">Replace with licensed Triumph photography</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="3840" y2="2160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B0E"/>
+      <stop offset="0.45" stop-color="#14141B"/>
+      <stop offset="1" stop-color="#C8102E"/>
+    </linearGradient>
+    <radialGradient id="r" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1100 1250) rotate(10) scale(1400 700)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#g)"/>
+  <rect width="3840" height="2160" fill="url(#r)"/>
+  <g opacity="0.9">
+    <path d="M840 1320c110-130 300-210 520-210h430c150 0 300 70 430 170l250 190h220c60 0 110 50 110 110 0 60-50 110-110 110H720c-80 0-140-80-90-160l210-320Z" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="10"/>
+    <circle cx="1280" cy="1580" r="220" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="24"/>
+    <circle cx="1280" cy="1580" r="120" fill="#14141B" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="12"/>
+    <circle cx="2600" cy="1580" r="220" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="24"/>
+    <circle cx="2600" cy="1580" r="120" fill="#14141B" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="12"/>
+    <path d="M1500 1100h420l260 210h-540l-140-210Z" fill="#14141B" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="10"/>
+    <path d="M1760 1260h260" stroke="#C8102E" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <text x="220" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="90" font-weight="900" fill="#FFFFFF" opacity="0.85">MODEL IMAGE PLACEHOLDER (4K)</text>
+  <text x="220" y="430" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF" opacity="0.65">Replace with licensed Triumph photography</text>
+</svg>

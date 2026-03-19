@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="2160" viewBox="0 0 3840 2160" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="3840" y2="2160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B0E"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#C8102E"/>
+    </linearGradient>
+  </defs>
+  <rect width="3840" height="2160" fill="url(#g)"/>
+  <g opacity="0.9">
+    <path d="M820 1380c110-150 300-240 520-240h440c160 0 300 80 440 190l250 200h240c60 0 110 50 110 110 0 60-50 110-110 110H720c-90 0-150-90-95-170l195-300Z" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.22" stroke-width="10"/>
+    <circle cx="1280" cy="1610" r="225" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="24"/>
+    <circle cx="2600" cy="1610" r="225" fill="#0B0B0E" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="24"/>
+    <path d="M1520 1120h470l280 230h-610l-140-230Z" fill="#0F172A" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="10"/>
+    <path d="M1760 1290h300" stroke="#C8102E" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <text x="220" y="320" font-family="Segoe UI, Arial, sans-serif" font-size="90" font-weight="900" fill="#FFFFFF" opacity="0.85">MODEL IMAGE PLACEHOLDER (4K)</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64" fill="none" role="img" aria-label="Triumph">
+  <rect x="1" y="1" width="238" height="62" rx="16" fill="#0B0B0E" stroke="#C8102E" stroke-width="2"/>
+  <path d="M40 18h160v4H40v-4Zm0 24h160v4H40v-4Z" fill="#C8102E" opacity=".9"/>
+  <text x="120" y="39" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="3" fill="#FFFFFF">
+    TRIUMPH
+  </text>
+</svg>
