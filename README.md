@@ -52,5 +52,8 @@ Browse 10 bike models, see details, compare specs, and submit test-ride / contac
     - Validates data in JS
     - Stores records in `localStorage`
     - Returns responses that look like a real Laravel API
+   
+    - 
+  
 **Live Url
 **https://your-site.vercel.app
